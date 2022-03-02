@@ -1,0 +1,8 @@
+Scrap_Telegram/venv
+Scrap_Telegram/__pycache__
+Scrap_Telegram/profile
+Scrap_Telegram/screen
+DashBoard/__pycache__
+DashBoard/assets
+DashBoard/compiler
+DashBoard/.gitignore
